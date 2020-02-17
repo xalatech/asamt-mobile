@@ -26,7 +26,7 @@
     ]
   },
   "dependencies": {
-    "axios": "^0.18.0",
+    "axios": "^0.18.1",
     "axios-mock-adapter": "^1.15.0",
     "bugsnag-react-native": "^2.9.5",
     "final-form": "^4.8.3",
