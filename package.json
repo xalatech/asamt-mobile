@@ -32,7 +32,7 @@
     "final-form": "^4.8.3",
     "immutability-helper": "^2.7.0",
     "lodash": "^4.17.10",
-    "moment": "^2.22.2",
+    "moment": "^2.29.2",
     "prop-types": "^15.6.1",
     "react": "16.3.1",
     "react-final-form": "^3.6.2",
